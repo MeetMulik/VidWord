@@ -17,7 +17,7 @@ Vidword, a cutting-edge platform built with Next.js, Express.js, FastAPI, Gemini
 
 ## Demo
 
-Check out Vidword in action: [Link](https://vidword.vercel.app/)
+Check out Vidword in action: [Link](https://www.loom.com/share/a7d516c8ec1d41cea803f4d74ee10426?sid=306928fc-a4d5-4281-852f-6b86d4723aa7)
 
 ## Installation
 
@@ -41,7 +41,7 @@ This project is deployed using [Vercel](https://vercel.com/).
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 - If you have suggestions for adding or removing something, feel free to open an issue to discuss it, or directly create a pull request with the necessary changes.
 - Create individual PR for each suggestion.
