@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/VidwordTeam/vidword/assets/vidword-logo.png" alt="Vidword Logo" />
-</div>
-
 # 🚀 VidWord
 
 Vidword, a cutting-edge platform built with Next.js, Express.js, FastAPI, GeminiAI, LangChain+, and OpenAI API, that revolutionizes YouTube video summarization. Users submit links, prompting transcriptions and GeminiAI-driven summaries. LangChain+ and OpenAI facilitate interactive Q&As. Community-generated summaries create a knowledge hub. Vidword's unique ChatGPT integration enhances natural language conversations, offering a comprehensive and interactive user experience.
